@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "producto nuevo",
+        "description": "leche",
+        "price": 200,
+        "thumbnail": "img",
+        "code": 15645,
+        "stock": 17,
+        "status": true,
+        "category": "productos frescos"
+    },
+    {
+        "id": 2,
+        "title": "producto nuevo",
+        "description": "leche fresca",
+        "price": 200,
+        "thumbnail": "img",
+        "code": 1564,
+        "stock": 17,
+        "status": true,
+        "category": "productos frescos"
+    }
+]
